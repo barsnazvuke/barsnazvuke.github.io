@@ -23,10 +23,12 @@ header {
 }
 .podval {
     width: 100%;
-    position: fixed;
-    left: 0; bottom: 0;
     padding: 15px;
-    background: url(img/fon.jpg) no-repeat center bottom;
+    background: url(img/fon.jpg) bottom;
     color: white;
+    text-align: center;
+}
+.socseti {
+    
     text-align: center;
 }
